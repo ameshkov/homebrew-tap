@@ -1,4 +1,4 @@
-class Dnslookup < Formula
+class Dnscrypt < Formula
     desc "DNSCrypt v2 protocol implementation + a command-line tool"
     homepage "https://github.com/ameshkov/dnscrypt"
     url "https://github.com/ameshkov/dnscrypt.git",
