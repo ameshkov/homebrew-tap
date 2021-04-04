@@ -11,8 +11,8 @@ class Dnscrypt < Formula
     def install
       system "go", "build", "-ldflags",
                "-X main.VersionString=#{version}",
-               "-o", "dnscrypt", "./cmd",
-               *std_go_args
+               *std_go_args,
+               "./cmd"
     end
   
     test do
