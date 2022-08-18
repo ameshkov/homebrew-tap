@@ -1,4 +1,4 @@
-class Dnslookup < Formula
+class Godnsbench < Formula
     desc "Simple DNS bench util that supports encrypted protocols."
     homepage "https://github.com/ameshkov/godnsbench"
     url "https://github.com/ameshkov/godnsbench.git",
