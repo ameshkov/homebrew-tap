@@ -15,7 +15,7 @@ class Dnslookup < Formula
     end
   
     test do
-      assert_match version.to_s, shell_output("#{bin}/dnslookup -v")
+      assert_match version.to_s, shell_output("#{bin}/dnslookup --version")
       assert_match "dnslookup result", shell_output("#{bin}/dnslookup example.org tls://dns.google")
     end
   end

@@ -15,7 +15,7 @@ class Godnsbench < Formula
     end
   
     test do
-      assert_match version.to_s, shell_output("#{bin}/godnsbench -v")
+      assert_match version.to_s, shell_output("#{bin}/godnsbench --version")
     end
   end
   
