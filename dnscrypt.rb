@@ -2,8 +2,8 @@ class Dnscrypt < Formula
     desc "DNSCrypt v2 protocol implementation + a command-line tool"
     homepage "https://github.com/ameshkov/dnscrypt"
     url "https://github.com/ameshkov/dnscrypt.git",
-        tag:      "v2.1.0",
-        revision: "d2deac62436d7c7ea60d1dc79ae4e43f360d2628"
+        tag:      "v2.2.5",
+        revision: "aeff5955671d7e1198cd1d388d343d6992232f4c"
     license "Unlicense License"
   
     depends_on "go" => :build
