@@ -2,8 +2,8 @@ class Godnsbench < Formula
     desc "Simple DNS bench util that supports encrypted protocols."
     homepage "https://github.com/ameshkov/godnsbench"
     url "https://github.com/ameshkov/godnsbench.git",
-        tag:      "v1.2",
-        revision: "4f646079abc2d5b3d732b5cfb0470e8095811745"
+        tag:      "v1.3",
+        revision: "0a028afa6f24e20eb750e9f744ef87f4c669a244"
     license "MIT"
   
     depends_on "go" => :build
