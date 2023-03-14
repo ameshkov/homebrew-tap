@@ -1,4 +1,4 @@
-class Godnsbench < Formula
+class Sniproxy < Formula
     desc "SNI proxy with embedded DNS server that supports blocking and forwarding rules."
     homepage "https://github.com/ameshkov/sniproxy"
     url "https://github.com/ameshkov/sniproxy.git",
