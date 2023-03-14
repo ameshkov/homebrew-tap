@@ -1,5 +1,5 @@
 class Godnsbench < Formula
-    desc "Simple DNS bench util that supports encrypted protocols."
+    desc "SNI proxy with embedded DNS server that supports blocking and forwarding rules."
     homepage "https://github.com/ameshkov/sniproxy"
     url "https://github.com/ameshkov/sniproxy.git",
         tag:      "v1.0",
