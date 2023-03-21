@@ -2,8 +2,8 @@ class Dnslookup < Formula
     desc "Simple command-line utility to make DNS lookups using any protocol"
     homepage "https://github.com/ameshkov/dnslookup"
     url "https://github.com/ameshkov/dnslookup.git",
-        tag:      "v1.8.1",
-        revision: "3c56b8c7d72fbd627cc848526851f106ce6290a9"
+        tag:      "v1.9.0",
+        revision: "dad41048670b1f00c9dad5f20f4ff339a02b8c37"
     license "GPL-3.0-only"
   
     depends_on "go" => :build
