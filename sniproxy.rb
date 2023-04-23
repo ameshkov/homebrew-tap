@@ -2,8 +2,8 @@ class Sniproxy < Formula
     desc "SNI proxy with embedded DNS server that supports blocking and forwarding rules."
     homepage "https://github.com/ameshkov/sniproxy"
     url "https://github.com/ameshkov/sniproxy.git",
-        tag:      "v1.3",
-        revision: "f66c64cf81ec694745883ab279042d506caa9c82"
+        tag:      "v1.4",
+        revision: "c96e283755f9ea4219923b148157b218293fb4bb"
     license "Apache-2.0"
   
     depends_on "go" => :build
