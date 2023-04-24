@@ -3,7 +3,7 @@ class Sniproxy < Formula
     homepage "https://github.com/ameshkov/sniproxy"
     url "https://github.com/ameshkov/sniproxy.git",
         tag:      "v1.4",
-        revision: "c96e283755f9ea4219923b148157b218293fb4bb"
+        revision: "5df26f95cd9b764aadc945d50fbee58064bbba84"
     license "Apache-2.0"
   
     depends_on "go" => :build
