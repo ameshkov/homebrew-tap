@@ -17,3 +17,4 @@ Package|Description
 [dnscrypt](https://github.com/ameshkov/dnscrypt)|DNSCrypt v2 protocol implementation + a command-line tool.
 [godnsbench](https://github.com/ameshkov/godnsbench)|Simple DNS bench util that supports encrypted protocols.
 [sniproxy](https://github.com/ameshkov/sniproxy)|SNI proxy with embedded DNS server that supports blocking and forwarding rules.
+[gocurl](https://github.com/ameshkov/gocurl)|Simplified version of curl written in Golang.
