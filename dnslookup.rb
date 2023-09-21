@@ -3,7 +3,7 @@ class Dnslookup < Formula
     homepage "https://github.com/ameshkov/dnslookup"
     url "https://github.com/ameshkov/dnslookup.git",
         tag:      "v1.10.0",
-        revision: "78e47087e910e349008610d02cb568dbf2e5b778"
+        revision: "0acf48e76e643c5c87af3f7ebb02cb0d01bb4842"
     license "GPL-3.0-only"
   
     depends_on "go" => :build
