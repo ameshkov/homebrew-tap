@@ -18,3 +18,4 @@ Package|Description
 [godnsbench](https://github.com/ameshkov/godnsbench)|Simple DNS bench util that supports encrypted protocols.
 [sniproxy](https://github.com/ameshkov/sniproxy)|SNI proxy with embedded DNS server that supports blocking and forwarding rules.
 [gocurl](https://github.com/ameshkov/gocurl)|Simplified version of curl written in Golang.
+[udptlspipe](https://github.com/ameshkov/udptlspipe)|TLS wrapper for UDP sessions with active probing protection.
