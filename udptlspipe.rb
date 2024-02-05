@@ -2,8 +2,8 @@ class Udptlspipe < Formula
     desc "TLS wrapper UDP connections with active probing protection."
     homepage "https://github.com/ameshkov/udptlspipe"
     url "https://github.com/ameshkov/udptlspipe.git",
-        tag:      "v1.2.2",
-        revision: "59d5faaa8a5ada529fc8824415670b50e73c2c37"
+        tag:      "v1.3.0",
+        revision: "62cfee72c64921842ddb2a103d6982fe6abbf7cb"
     license "MIT"
   
     depends_on "go" => :build
