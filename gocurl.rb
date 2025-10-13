@@ -1,9 +1,9 @@
 class Gocurl < Formula
-    desc "SNI proxy with embedded DNS server that supports blocking and forwarding rules."
+    desc "Simplified version of curl written in pure Go with additional features."
     homepage "https://github.com/ameshkov/gocurl"
     url "https://github.com/ameshkov/gocurl.git",
-        tag:      "v1.4.9",
-        revision: "ea047dc22d48c61a65543b0cf8299637b1ae1106"
+        tag:      "v1.5.0",
+        revision: "2e9453000a734304ae67c34d907d06c89b354e00"
     license "MIT"
   
     depends_on "go" => :build
