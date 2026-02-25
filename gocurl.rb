@@ -2,8 +2,8 @@ class Gocurl < Formula
     desc "Simplified version of curl written in pure Go with additional features."
     homepage "https://github.com/ameshkov/gocurl"
     url "https://github.com/ameshkov/gocurl.git",
-        tag:      "v1.5.0",
-        revision: "2e9453000a734304ae67c34d907d06c89b354e00"
+        tag:      "v1.5.1",
+        revision: "2378b32ba42869a866ae1a6b915b86284ed02248"
     license "MIT"
   
     depends_on "go" => :build
